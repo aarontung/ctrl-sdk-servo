@@ -1,2 +1,4 @@
 venv
 STservo_sdk/__pycache__
+rtc_sdk/rtc_sdk.egg-info
+rtc_sdk/build
